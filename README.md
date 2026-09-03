@@ -1,51 +1,34 @@
-<div align="center">
-<img src="https://allananjos.dev.br/assets/img/allan-foto-320.jpg" width="110" style="border-radius:50%" alt="Allan Anjos"/>
+<h1 align="center">Hi 👋, I'm Allan Anjos</h1>
+<h3 align="center">Analista de TI | Especialista em Automação (RPA) & IA Generativa</h3>
 
-# Allan Anjos
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjosdevpython&label=Profile%20views&color=0e75b6&style=flat" alt="anjosdevpython" /> </p>
 
-Analista de TI, automação (RPA) e IA generativa. Curitiba, Brasil.
+- 🔭 I’m currently working on **Sistemas de IA Generativa e Agentes de Automação**
 
-[![Site](https://img.shields.io/badge/site-allananjos.dev.br-06b6d4?style=flat-square&logo=googlechrome&logoColor=white)](https://allananjos.dev.br)
-[![LinkedIn](https://img.shields.io/badge/linkedin-allanfelipe--ti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allanfelipe-ti)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-contato-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5541988875184)
+- 🌱 I’m currently learning **Arquitetura de Agentes Autônomos & Orquestração LLM**
 
-</div>
+- 👯 I’m looking to collaborate on **Projetos Open Source de RPA e Agentes IA**
 
-Trabalho com TI desde 2015. Nos últimos anos passei a focar em automação de processos (RPA) e IA generativa, sem deixar de lado a base em infraestrutura e cibersegurança que construí no suporte técnico e no Exército Brasileiro.
+- 🤝 I’m looking for help with **Arquitetura de Agentes Autônomos & Orquestração LLM**
 
-Mapeio gargalos operacionais e construo robôs e agentes de IA com n8n, Make, Zapier e Playwright, do atendimento no WhatsApp até a alimentação de CRM. Também cuido de infraestrutura em Linux, Windows e Docker, com foco em segurança.
+- 👨‍💻 All of my projects are available at [https://github.com/anjosdevpython?tab=repositories](https://github.com/anjosdevpython?tab=repositories)
 
-Certificações: Analista SOC, Segurança em Linux e Boas Práticas de Cibersegurança pela IBSEC, e Formação em Liderança pela Conquer.
+- 💬 Ask me about **n8n, Make, Playwright, Python, Docker & Cibersegurança**
 
-## Stack
+- 📫 How to reach me **allanfelipedosanjos7@gmail.com**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+- 📄 Know about my experiences [https://www.linkedin.com/in/allanfelipe-ti/](https://www.linkedin.com/in/allanfelipe-ti/)
 
-## Alguns projetos
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/allanfelipe-ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allanfelipe-ti" height="30" width="40" /></a>
+</p>
 
-- [sermaoai](https://github.com/anjosdevpython/sermaoai): projeto com IA generativa, em TypeScript
-- [controledefinancas](https://github.com/anjosdevpython/controledefinancas): app de controle de finanças, em TypeScript
-- [clube_altera_dados](https://github.com/anjosdevpython/clube_altera_dados): automação de dados, em Python
-- [otimizadorpc](https://github.com/anjosdevpython/otimizadorpc): script de otimização de sistema, em PowerShell
-- [site_2025_anjostech](https://github.com/anjosdevpython/site_2025_anjostech): site pessoal e portfólio, em JavaScript
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-## Estatísticas
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjosdevpython&show_icons=true&locale=en&layout=compact" alt="anjosdevpython" /></p>
 
-<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjosdevpython&show_icons=true&locale=en" alt="anjosdevpython" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anjosdevpython&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosdevpython&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165"/>
-
-</div>
-
-Contato: pelo [WhatsApp](https://wa.me/5541988875184) ou pelo [site](https://allananjos.dev.br).
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjosdevpython&" alt="anjosdevpython" /></p>
