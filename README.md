@@ -1,68 +1,68 @@
-<h1 align="center">Hi 👋, I'm Allan Anjos</h1>
-<h3 align="center">Analista de TI | Especialista em Automação (RPA) & IA Generativa</h3>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=anjosdevpython&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173431947%3Fu%3Deae7398b4c38cdc5249255de7b5466c6f24ae048%26v%3D4" alt="anjosdevpython hero visual" />
+</p>
+
+<p align="center"><b>Allan Anjos</b> · Frontend or full-stack engineer<br/><sub>Grupo MiniPreço</sub></p>
+
+<p align="center"><a href="https://github.com/anjosdevpython">GitHub</a> · <a href="https://allananjos.dev.br">Website</a></p>
+
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjosdevpython&label=Profile%20views&color=0e75b6&style=flat" alt="anjosdevpython" />
+  <img src="https://www.gitskins.com/api/section/projects?username=anjosdevpython&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173431947%3Fu%3Deae7398b4c38cdc5249255de7b5466c6f24ae048%26v%3D4" alt="anjosdevpython projects visual" />
 </p>
 
-### 👨‍💻 Sobre Mim
+- [Projeto-App-Centro-M-dico-Adventista-Curitiba-CMAC-](https://github.com/anjosdevpython/Projeto-App-Centro-M-dico-Adventista-Curitiba-CMAC-) · ★ 0
+- [AntiAI-Shield](https://github.com/anjosdevpython/AntiAI-Shield) · ★ 0 — Proteja suas imagens antes de publicá-las. Aplicação web com defesa adversarial baseada em Anti-Drea
+- [agentedeatendimentoacelerato](https://github.com/anjosdevpython/agentedeatendimentoacelerato) · ★ 0 — Agente de ia para acelerato
+- [AnjosDevOS](https://github.com/anjosdevpython/AnjosDevOS) · ★ 0
+- [meu_site_portifolio_teste](https://github.com/anjosdevpython/meu_site_portifolio_teste) · ★ 0 — teste 
+- [bibliaestudojovem](https://github.com/anjosdevpython/bibliaestudojovem) · ★ 0
 
-- 🔭 **Atuação atual:** Desenvolvendo sistemas de IA Generativa e Agentes de Automação (RPA).
-- 🌱 **Evolução contínua:** Aprofundando em Arquitetura de Agentes Autônomos & Orquestração de LLMs.
-- 👯 **Colaboração:** Aberto a projetos Open Source em RPA, automação e Agentes de IA.
-- 💬 **Expertise:** n8n, Make, Zapier, Playwright, Python, Docker, Linux & Cibersegurança.
-- 🛡️ **Bagagem:** Atuação em TI desde 2015, combinando suporte, cibersegurança (IBSEC) e disciplina militar.
-- 📫 **Contato:** [allanfelipedosanjos7@gmail.com](mailto:allanfelipedosanjos7@gmail.com)
+</details>
 
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<p align="left">
-  <!-- Ícones limpos e responsivos das suas tecnologias reais -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,vue,docker,linux,powershell,bash,git,postgres,supabase" alt="Stack Tecnológica" />
-  </a>
-</p>
-
-- **Automação & Orquestração:** n8n · Make · Zapier · Playwright
-- **Backend & Scripting:** Python · TypeScript · JavaScript · PowerShell
-- **Infraestrutura & Cloud:** Docker · Linux · Supabase · Git
-
----
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Stack | Descrição |
-| :--- | :---: | :--- |
-| 🤖 [sermaoai](https://github.com/anjosdevpython/sermaoai) | `TypeScript` | Projeto focado em IA Generativa. |
-| 💰 [controledefinancas](https://github.com/anjosdevpython/controledefinancas) | `TypeScript` | Aplicação interativa para controle financeiro. |
-| 📊 [clube_altera_dados](https://github.com/anjosdevpython/clube_altera_dados) | `Python` | Automação e tratamento/manipulação de dados. |
-| ⚙️ [otimizadorpc](https://github.com/anjosdevpython/otimizadorpc) | `PowerShell` | Script avançado de otimização de sistema operacional. |
-| 🌐 [site_2025_anjostech](https://github.com/anjosdevpython/site_2025_anjostech) | `JavaScript` | Site pessoal e portfólio profissional. |
-
----
-
-### 📊 Estatísticas do GitHub
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anjosdevpython&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosdevpython&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
+  <img src="https://www.gitskins.com/api/section/stack?username=anjosdevpython&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173431947%3Fu%3Deae7398b4c38cdc5249255de7b5466c6f24ae048%26v%3D4" alt="anjosdevpython stack visual" />
 </p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>26</b> public repositories, <b>0</b> stars, <b>268</b> contributions in the last year, a longest streak of <b>3</b> days and <b>1</b> followers.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjosdevpython&theme=tokyonight" alt="Sequência de Commits" />
+  <img src="https://www.gitskins.com/api/section/stats?username=anjosdevpython&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173431947%3Fu%3Deae7398b4c38cdc5249255de7b5466c6f24ae048%26v%3D4" alt="anjosdevpython stats visual" />
 </p>
 
----
+</details>
 
-### 🤝 Conecte-se Comigo
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/allanfelipe-ti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:allanfelipedosanjos7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=anjosdevpython&theme=neon" alt="anjosdevpython contribution activity" />
 </p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=anjosdevpython&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173431947%3Fu%3Deae7398b4c38cdc5249255de7b5466c6f24ae048%26v%3D4" alt="anjosdevpython social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Allan Anjos · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
